@@ -1,3 +1,9 @@
+# RetainSure SDE Assignment Submission
+
+This repository contains my completed submission for the RetainSure SDE Assignment. Please see the `CHANGES.md` file for a summary of the major issues identified, changes made, and architectural decisions.
+
+---
+
 # Code Refactoring Challenge
 
 ## Overview
